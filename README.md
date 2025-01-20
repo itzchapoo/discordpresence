@@ -31,7 +31,4 @@ Edit **config.lua** according to the comments in it.
 
 Create a new [issue](https://github.com/boofiboi/FiveM-Discord-Presence/issues/new) or message me on Discord: itzchapoo_
 
-# Final words
-
-Big thanks to Virtual Vision Studios over on discord, who helped me catch a lot of errors.
 
